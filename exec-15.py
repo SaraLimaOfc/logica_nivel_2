@@ -1,4 +1,4 @@
-numero = int(input("Digite um valor:"))
+numero = float(input("Digite um valor:"))
 
 if numero >=0:
     print("O número é positivo")
